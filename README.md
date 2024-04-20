@@ -47,6 +47,19 @@ for each line
     find index of restaurant
         restaurant[index].add(food(row[1], row[2], serial++))
 ```
+int main() {
+    Restaurant restaurant("KFC");
+
+    restaurant.addFood(1, "Burger", 5.99);
+    restaurant.addFood(2, "Pizza", 6.99);
+    restaurant.addFood(3, "Salad", 3.99);
+    restaurant.addFood(3, "french fries", 1.99);
+    restaurant.addFood(3, "taco", 5.99);
+
+    restaurant.printMenu();
+
+    return 0;
+}
 
 ## Members:
 - B2209239 黃郁鈞
