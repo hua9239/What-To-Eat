@@ -36,6 +36,11 @@ csv format:
     restaurant name, food name, price
     restaurant name, food name, price
     ...
+    restaurant.addFood(1, "Burger", 5.99);
+    restaurant.addFood(2, "Pizza", 6.99);
+    restaurant.addFood(3, "Salad", 3.99);
+    restaurant.addFood(3, "french fries", 1.99);
+    restaurant.addFood(3, "taco", 5.99);
 
 vector of exist restaurant
 serial = 0
