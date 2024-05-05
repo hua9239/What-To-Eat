@@ -42,6 +42,15 @@ csv format:
     restaurant.addFood(3, "french fries", 1.99);
     restaurant.addFood(3, "taco", 5.99);
 
+    removeFood(id) {
+        if (this.menu.has(id)) {
+            this.menu.delete(id);
+            console.log(`成功從餐車移除 ${id} `);
+        } else {
+            console.log(` ${id} 不存在於餐車內`);
+        }
+    }
+
 vector of exist restaurant
 serial = 0
 
