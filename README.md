@@ -33,6 +33,12 @@ for each restaurant
 
 ```
 csv format:
+    Restaurant restaurant("KFC");
+    Restaurant restaurant("711");
+    Restaurant restaurant("媽媽樂");
+    Restaurant restaurant("花果山");
+    Restaurant restaurant("好吃炒飯");
+
     restaurant name, food name, price
     restaurant name, food name, price
     ...
