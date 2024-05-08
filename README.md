@@ -1,5 +1,10 @@
 # What-To-Eat 今天吃什麼
 
+## build
+```bash
+g++ -o main.exe -I .\include\ .\src\Food.cpp .\src\main.cpp .\src\Restaurant.cpp
+```
+
 ## 流程圖 & UML 看這裡
 ```
 food:
