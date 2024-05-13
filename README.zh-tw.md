@@ -9,7 +9,7 @@
     <a href="./README.zh-tw.md"><img src=https://img.shields.io/badge/lang-ZH--TW-red.svg title="Traditional Chinese"></a>
 </div>
 
-## Build
+## 建置
 
 1. 將專案複製到本地端
     ```bash
@@ -25,7 +25,7 @@
     ```
 
 
-## Members:
+## 組員:
 - B2209239 黃郁鈞
 - A9223218 陳彥杰
 - A9251041 胡凱棠
