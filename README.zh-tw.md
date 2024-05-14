@@ -1,7 +1,7 @@
 <div align="center">
     <h1>What-To-Eat 今天吃什麼</h1>
     <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=visual-studio-code" title="Visual Studio Code">
-    <img src="https://img.shields.io/badge/-Visual Studio-5C2D91.svg?logo=visual-studio" title="Visual Studio">
+    <!-- <img src="https://img.shields.io/badge/-Visual Studio-5C2D91.svg?logo=visual-studio" title="Visual Studio"> -->
     <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=c%2B%2B" title="C++">
     <img src=https://img.shields.io/github/last-commit/hua9239/What-To-Eat>
     </br>

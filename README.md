@@ -1,7 +1,7 @@
 <div align="center">
     <h1>What-To-Eat 今天吃什麼</h1>
     <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=visual-studio-code" title="Visual Studio Code">
-    <img src="https://img.shields.io/badge/-Visual Studio-5C2D91.svg?logo=visual-studio" title="Visual Studio">
+    <!-- <img src="https://img.shields.io/badge/-Visual Studio-5C2D91.svg?logo=visual-studio" title="Visual Studio"> -->
     <img src="https://img.shields.io/badge/-C++-00599C.svg?logo=c%2B%2B" title="C++">
     <img src=https://img.shields.io/github/last-commit/hua9239/What-To-Eat>
     </br>
@@ -23,6 +23,19 @@
     ```bash
     g++ -o main.exe -I .\include\ .\src\Food.cpp .\src\main.cpp .\src\Restaurant.cpp
     ```
+
+## How to use
+
+### Requirements
+
+Csv file Name: `menu.csv` with the following format:
+```csv
+Restaurant Name,Food Name,Price
+```
+
+### Run the program
+
+It will read the `menu.csv` file and randomly select a restaurant and a food item from the file to output.
 
 
 ## Members:
