@@ -24,6 +24,19 @@
     g++ -o main.exe -I .\include\ .\src\Food.cpp .\src\main.cpp .\src\Restaurant.cpp
     ```
 
+## 如何使用
+
+### 需求
+
+一個名為 `menu.csv` 的 csv 檔案，格式如下:
+```csv
+餐廳名稱,食物名稱,價格
+```
+
+### 執行程式
+
+城市將會讀取 `menu.csv` 檔案，並隨機選擇一家餐廳和一樣食物來輸出。
+
 
 ## 組員:
 - B2209239 黃郁鈞
