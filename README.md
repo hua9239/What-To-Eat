@@ -21,7 +21,7 @@
     ```
 3. Build the project
     ```bash
-    g++ -o main.exe -I .\include\ .\src\Food.cpp .\src\main.cpp .\src\Restaurant.cpp
+    g++ -o What-To-Eat.exe -I .\include\ .\src\Food.cpp .\src\main.cpp .\src\Restaurant.cpp
     ```
 
 ## How to use
